@@ -1,5 +1,12 @@
 
 
+## [0.1.2](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/compare/0.1.1...0.1.2) (2024-09-13)
+
+
+### Miscellaneous Chores
+
+* adds example [skip ci] ([b27a5c1](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/commit/b27a5c1440e24daed82346bc4cfab2dc78f38534))
+
 ## [0.1.1](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/compare/0.1.0...0.1.1) (2024-09-13)
 
 
