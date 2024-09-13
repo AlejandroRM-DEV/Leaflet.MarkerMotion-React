@@ -1,5 +1,12 @@
 
 
+## [0.1.4](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/compare/0.1.3...0.1.4) (2024-09-13)
+
+
+### Documentation
+
+* :memo: Adds README ([f613128](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/commit/f613128981fc4c1018b6c215c9631a2399685d15))
+
 ## [0.1.3](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/compare/0.1.2...0.1.3) (2024-09-13)
 
 
