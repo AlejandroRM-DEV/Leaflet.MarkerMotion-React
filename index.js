@@ -1,1 +1,1 @@
-export * from "./src/MarkerMotion";
+export { default } from "./src/MarkerMotion";
