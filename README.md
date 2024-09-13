@@ -1,9 +1,15 @@
 # Leaflet.MarkerMotion React Wrapper
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Leaflet.MarkerMotion is a powerful open-source plugin for Leaflet that enables smooth marker animation along predefined paths. This documentation covers the React wrapper for Leaflet.MarkerMotion, which allows easy integration with React-Leaflet projects.
+
+![Build Status](https://img.shields.io/github/actions/workflow/status/AlejandroRM-DEV/Leaflet.MarkerMotion-React/release.yml?branch=main)
+![npm version](https://img.shields.io/npm/v/leaflet.marker-motion-react)
+![npm](https://img.shields.io/npm/dt/leaflet.marker-motion-react)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![GitHub issues](https://img.shields.io/github/issues/AlejandroRM-DEV/Leaflet.MarkerMotion-React)
+![GitHub forks](https://img.shields.io/github/forks/AlejandroRM-DEV/Leaflet.MarkerMotion-React)
+![GitHub stars](https://img.shields.io/github/stars/AlejandroRM-DEV/Leaflet.MarkerMotion-React)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 
 ## Demo
 
@@ -155,10 +161,10 @@ Here's an example of how to control the MarkerMotion component using buttons:
     >
       Random progress
     </button>
-    <button onClick={() => setSpeed((s) => Math.max(s - 500, 1000))}>
+    <button onClick={Math.max(s - 500, 1000))}>
       Slower
     </button>
-    <button onClick={() => setSpeed((s) => Math.min(s + 1000, 10000))}>
+    <button onClick={Math.min(s + 1000, 10000))}>
       Faster
     </button>
   </div>
