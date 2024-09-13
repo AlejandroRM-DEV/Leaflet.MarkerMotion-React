@@ -1,5 +1,13 @@
 
 
+## [0.1.5](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/compare/0.1.4...0.1.5) (2024-09-13)
+
+
+### Documentation
+
+* create .all-contributorsrc [skip ci] ([45d3bfc](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/commit/45d3bfc0fb8a8c3ea972c075c6961aa95121322f))
+* update README.md [skip ci] ([4c2fad4](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/commit/4c2fad48e4773089c774110ae249de137f5ae0aa))
+
 ## [0.1.4](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/compare/0.1.3...0.1.4) (2024-09-13)
 
 
