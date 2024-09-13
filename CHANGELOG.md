@@ -1,5 +1,12 @@
 
 
+## [0.1.3](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/compare/0.1.2...0.1.3) (2024-09-13)
+
+
+### Bug Fixes
+
+* Fix example [skip ci] ([2907378](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/commit/290737812cafc38f5a6f725b0df9e1c84b4ec5ae))
+
 ## [0.1.2](https://github.com/AlejandroRM-DEV/Leaflet.MarkerMotion-React/compare/0.1.1...0.1.2) (2024-09-13)
 
 
